@@ -1,0 +1,16 @@
+﻿.productslisting {
+    display: flex;
+    flex: 1;
+    flex-flow: wrap row;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+
+    flex-basis: 16rem;
+}
+
+.productslisting 
+{
+    margin: 150px;
+    padding: 10px;
+}

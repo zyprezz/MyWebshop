@@ -1,0 +1,63 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"image": "https://images-na.ssl-images-amazon.com/images/I/91zOjt8tf8L._AC_SX679_.jpg",
+			"name": "Nikon d750",
+			"price": 220000,
+			"sku": "sku_GUcOSkQAlnD51e"
+
+		},
+		{
+			"id": 2,
+			"image": "https://images-na.ssl-images-amazon.com/images/I/91zOjt8tf8L._SL1500_.jpg",
+			"name": "Nikon 810 fx",
+			"price": 120000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		},
+		{
+			"id": 2,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyOnhJRngSYcbxtkS5lJh6CLMfkHi7d2DwtY2MWEgdB4BJZ5x&s",
+			"name": "random acessory",
+			"price": 2120000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		},
+		{
+			"id": 2,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5pRJqquo4OlcNpmF7b65i1DOBhneswQ2pfWWJ3y-ETR5EQI3fGw&s",
+			"name": "more acessorys",
+			"price": 1220000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		},
+		{
+			"id": 2,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLX5F1zPsBp-NSCo8lMJhgFwc54ZuaVb5S-px8FjimG3lHDVn&s",
+			"name": "movement unveals",
+			"price": 180000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		},
+		{
+			"id": 2,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPTMoGNR7ZxjCNGzFopyZ9FY-MWfKLLR6ymBDCFcknvlTDiIl&s",
+			"name": "native american",
+			"price": 140000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		},
+		{
+			"id": 2,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdFPVi8iNol7VmU2hn1F0TkBXImyJF_v0Sm5e1ZhGb4MQ9BK7&s",
+			"name": "camra acessorys",
+			"price": 80000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		},
+		{
+			"id": 2,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KJrqVIfKfPbIXnFn8kuzj0wuczcciMQfkRIsCVe_-om5APo_&s",
+			"name": "old camra",
+			"price": 250000,
+			"sku": "sku_GVGzWyEXZU88lK"
+		}
+
+
+	]
+}
