@@ -15,7 +15,7 @@ export default class App extends React.Component {
             <NavMenu>
                 <Route exact path='/' component={Store} />
                 <Route path='/cart' component={Cart} />
-                <Route path='/Contact' component={Contact} />
+                <Route path='/contact' component={Contact} />
             </NavMenu>
         );
     }

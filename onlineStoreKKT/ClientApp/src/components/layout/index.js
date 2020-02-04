@@ -1,4 +1,4 @@
-﻿import React, {children } from 'react'
+﻿import React from 'react'
 import NavMenu from '../../components/navbar'
 import {Container} from 'reactstrap'
 
